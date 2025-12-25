@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**SushankKangane/sushankkangane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Sushank Kangane**, a Senior Software Engineer with **6+ years of experience** building scalable and reliable backend and data systems across fintech and tech domains.
 
-Here are some ideas to get you started:
+- 🔭 Currently working as **SDE-3 at HERE Technologies** in the **Lane Visualization team**
+- 🧠 Building **data write algorithms** and **Scala/Spark pipelines** processing **terabytes of data**
+- ☁️ Working with **AWS** and **GitLab CI/CD** for large-scale data workflows
+- 🏦 Previously worked on **fintech platforms**, including **loan management systems, risk engines, collections, and partner onboarding**
+- ⚙️ Experience with **microservices, high-throughput APIs, batch & retry systems**
+- 🌱 Learning more about **distributed systems and big data optimizations**
+- 💬 Ask me about **Java, Scala, Apache Spark, backend systems, and data engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:**  
+- LinkedIn: [sushank-kangane](https://www.linkedin.com/in/sushank-kangane-413bb8121/)
